@@ -1,5 +1,5 @@
 # Keep_Lighting
-VR Horror game based on Hyper-realistic Interaction contents using Meta Quest. Although the `Dependencies` section says that the available device is Meta Quest pro, you can play this project using Meta Quest 3 or Oculus 2 or any other device 'cause I tried it.
+VR Horror game based on Hyper-realistic Interaction contents using Meta Quest. Although the `Dependencies` section says that the available device is Meta Quest pro, you can play this project using Meta Quest 3 or Oculus 2 or any other HMD device.
 
 ## Contents
 Despite It's low perfection, Enough to utilize for development environment. This project has somethings that you can utilize

@@ -10,7 +10,6 @@ Despite It's low perfection, Enough to utilize for development environment. This
 
 Controller controls are as follow:
 - Left Controller `Joystick` : Move to user position.<br><br>
-- Right Controller : a act of right hand in virtual reality.
 - Right Controller `Joystick` : Rotates to user's view. <br>
 - Right Controller `A` : Interaction
 - Right Controller `B` : Inventory for items that you got by interaction.<br><br>

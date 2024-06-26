@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7d3e1e087a6fd684da2b08ef5c3fe259
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56448
+  packageName: Mannequins
+  packageVersion: 1.1
+  assetPath: Assets/Mannequins/Prefabs/mannequin_01.prefab
+  uploadId: 524375

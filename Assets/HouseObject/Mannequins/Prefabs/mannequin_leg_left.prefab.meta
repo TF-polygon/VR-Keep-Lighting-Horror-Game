@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b3a5459230037e47bcecf1adad18846
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56448
+  packageName: Mannequins
+  packageVersion: 1.1
+  assetPath: Assets/Mannequins/Prefabs/mannequin_leg_left.prefab
+  uploadId: 524375

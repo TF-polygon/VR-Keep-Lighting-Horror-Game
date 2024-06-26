@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 546b99a4be32b6e489743c9f26ed2557
+NativeFormatImporter:
+  mainObjectFileID: -1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56448
+  packageName: Mannequins
+  packageVersion: 1.1
+  assetPath: Assets/Mannequins/Prefabs/mannequin_arm_left_a.prefab
+  uploadId: 524375

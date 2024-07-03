@@ -1,12 +1,12 @@
 # Keep_Lighting
-VR Horror game based on Hyper-realistic Interaction contents using Meta Quest. Although the `Dependencies` section says that the available device is Meta Quest pro, you can play this project using Meta Quest 3 or Oculus 2 or any other HMD device as well.
+VR Horror game based on Hyper-realistic interaction contents using Meta Quest. Although the `Dependencies` section says that the available device is Meta Quest Pro, you can play this project using Meta Quest 3 or Oculus 2 or any other HMD device as well.
 
 ## Contents
-Despite It's low perfection, Enough to utilize for development environment. This project has somethings that you can utilize
+Despite it's low perfection, enough to utilize for development environment. This project has somethings that you can utilize:
 - Player Interaction for Head Mounted Display(HMD)
 - Canvas Interaction during the play
-- Object Interaction changing color each time the user aims <br><br>
-- Sounds Interaction
+- Object Interaction changing color each time the user aims
+- Sounds Interaction <br><br>
 
 Controller controls are as follow:
 - Left Controller `Joystick` : Move to user position.<br><br>
@@ -19,8 +19,8 @@ Controller controls are as follow:
 <br><br>
 
 ## Dependencies
-- Meta Quest pro
-- Unity C#  >=  2020.3.32f1
+- Meta Quest Pro
+- Unity  >=  2020.3.32f1
 
 ## Setup
 - In 'File > Build Settings', set the following :
